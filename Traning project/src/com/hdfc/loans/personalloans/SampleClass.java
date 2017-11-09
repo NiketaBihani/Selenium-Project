@@ -17,6 +17,7 @@ public class SampleClass implements SampleInterface{
 		SampleClass abc= new SampleClass();
 	    abc.add();
 	    System.out.println(abc.a);
+	    System.out.println("This is GITHUB server training class");
 	    
 	    abc.method1();
 	}
