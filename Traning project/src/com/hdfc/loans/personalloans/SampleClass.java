@@ -15,8 +15,8 @@ public class SampleClass implements SampleInterface{
 		System.out.println(obj.a);
 	   
 		SampleClass abc= new SampleClass();
-	    abc.add();
 	    System.out.println(abc.a);
+	    System.out.println("hello");
 	    
 	    abc.method1();
 	}
